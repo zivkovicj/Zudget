@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  when: 2023-02-05 08:18:44
+  title: MyString
+  notes: MyString
+  amount: 1
+
+two:
+  when: 2023-02-05 08:18:44
+  title: MyString
+  notes: MyString
+  amount: 1
