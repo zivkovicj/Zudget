@@ -1,2 +1,4 @@
-object @user
-attributes :first_name, :last_name
+child @user => :result do
+    extends 'users/_user'
+end
+  
